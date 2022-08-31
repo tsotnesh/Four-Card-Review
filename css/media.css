@@ -1,0 +1,33 @@
+@media (max-width:375px) {
+    .block1 {
+        top:20px;
+        left:5px;
+    }
+
+    .block2 {
+        top:230px;
+        left:5px;
+    }
+
+    .block3 {
+        top: 440px;
+        left:5px;
+    }
+
+    .block4 {
+        top:650px;
+        left:5px;
+    }
+
+    .first-header {
+        font-size: 24px;
+    }
+
+    .second-header {
+        font-size:24px;
+    }
+
+    .text-header {
+        font-size:12px;
+    }
+}
